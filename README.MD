@@ -1,7 +1,9 @@
 # How to run the bot
 
-1. Install [Python 3.6](https://www.python.org/downloads/release/python-360/)
-2. Install [discord.py]
+Follow the steps below to run the bot:
+
+## Local development
+1. Install [Python 3.10](https://www.python.org/downloads/release/python-3109/)
+2. Install requirements with `pip install -r requirements.txt`
 3. Replace the token in the code with your own token
-4. Install requirements with `pip install -r requirements.txt`
-5. Run the bot with `python bot.py`
+4. Run the bot with `python bot.py`
